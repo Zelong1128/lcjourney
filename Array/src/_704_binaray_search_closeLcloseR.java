@@ -1,4 +1,4 @@
-public class _704_binaray_search_closeLR {
+public class _704_binaray_search_closeLcloseR {
     // 左右都闭合
     public int search(int[] nums, int target) {
         if(target < nums[0] || target > nums[nums.length - 1])    return -1;
